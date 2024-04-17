@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JoannaMiJa
 - 👀 I’m interested in data analytics
 - 🌱 I’m currently learning Power Query
-- 📫 How to reach me: by email Joanna.misztall@gmail.com
+- 📫 How to reach me joanna.misztall@gmail.com
 
 
 <!---
