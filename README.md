@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @JoannaMiJa
+- 👋 Hi, I’m @JoannaMisztal-Jarzabek
 - 👀 I’m interested in data analytics
-- 🌱 I’m currently learning Power Query
+- 🌱 I’m currently learning Power BI tools
 - 📫 How to reach me joanna.misztall@gmail.com
 
 
